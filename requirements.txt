@@ -1,0 +1,6 @@
+# 自然衔接 NaturalLink — 核心依赖
+numpy>=1.22
+pillow>=9.0
+
+# 可选：视频关键帧（未安装时自动跳过，不报错）
+# opencv-python
